@@ -283,6 +283,7 @@
             </div>
         </div>
 
+        <!-- Loop through the ProjectViewModel and display each Project -->
         <div class="row portfolio-container">
             @{List<ProjectViewModel> projects = ProjectViewModel.GetProjects();}
             @foreach (var item in projects)
@@ -302,75 +303,7 @@
                     </div>
                 </div>
             }
-            @*<div class="col-lg-4 col-md-6 portfolio-item filter-app">
-                <div class="portfolio-wrap">
-                    <img src="~/assets/img/Dungeon/DungeonAppTitle.png" class="img-fluid" alt="Dungeon Title">
-                    <div class="portfolio-info">
-                        <h4>Dungeon App</h4>
-                        <p>C# App</p>
-                        <div class="portfolio-links">
-                            <a href="~/assets/img/Dungeon/DungeonAppTitle.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="C# Console App"><i class="bx bx-plus"></i></a>
-                            <a href="@Url.Action("Dungeon","Home")" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                <div class="portfolio-wrap">
-                    <img src="~/assets/img/StoreFront/Home.jpg" class="img-fluid" alt="Retro Games Home">
-                    <div class="portfolio-info">
-                        <h4>Retro Games StoreFront</h4>
-                        <p>Web</p>
-                        <div class="portfolio-links">
-                            <a href="~/assets/img/StoreFront/Home.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Retro Games Store Front"><i class="bx bx-plus"></i></a>
-                            <a href="@Url.Action("StoreFront","Home")" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-api">
-                <div class="portfolio-wrap">
-                    <img src="~/assets/img/ToDo_API/todo_image.png" class="img-fluid" alt="Checklist">
-                    <div class="portfolio-info">
-                        <h4>ToDo API</h4>
-                        <p>API</p>
-                        <div class="portfolio-links">
-                            <a href="~/assets/img/ToDo_API/todo_image.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Todo API"><i class="bx bx-plus"></i></a>
-                            <a href="@Url.Action("ToDoApi", "Home")" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-react">
-                <div class="portfolio-wrap">
-                    <img src="~/assets/img/React_ToDo/Login.jpg" class="img-fluid" alt="React App Login">
-                    <div class="portfolio-info">
-                        <h4>React ToDo</h4>
-                        <p>React App</p>
-                        <div class="portfolio-links">
-                            <a href="~/assets/img/React_ToDo/Login.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="React ToDo"><i class="bx bx-plus"></i></a>
-                            <a href="@Url.Action("ReactToDo","Home")" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="React ToDo"><i class="bx bx-link"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                <div class="portfolio-wrap">
-                    <img src="~/assets/img/SAT/SAT.png" class="img-fluid" alt="">
-                    <div class="portfolio-info">
-                        <h4>S.A.T</h4>
-                        <p>Web</p>
-                        <div class="portfolio-links">
-                            <a href="~/assets/img/SAT/SAT.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Scheduling Administration Tool"><i class="bx bx-plus"></i></a>
-                            <a href="@Url.Action("SAT", "Home")" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Scheduling Administration Tool"><i class="bx bx-link"></i></a>
-                        </div>
-                    </div>
-                </div>
-            </div>*@
+            
         </div>
 
     </div>
