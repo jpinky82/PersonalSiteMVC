@@ -10618,11 +10618,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC.csproj",
+      "projectUniqueName": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC.csproj",
       "projectName": "PersonalSiteMVC",
-      "projectPath": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC.csproj",
+      "projectPath": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC.csproj",
       "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-      "outputPath": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\obj\\",
+      "outputPath": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Student\\AppData\\Roaming\\NuGet\\NuGet.Config",

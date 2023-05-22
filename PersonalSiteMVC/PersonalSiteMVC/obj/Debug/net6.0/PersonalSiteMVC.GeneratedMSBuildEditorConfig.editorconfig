@@ -9,73 +9,73 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PersonalSiteMVC
 build_property.RootNamespace = PersonalSiteMVC
-build_property.ProjectDir = G:\My Drive\Dev\WebsiteMVC\PersonalSiteMVC\PersonalSiteMVC\
+build_property.ProjectDir = C:\Users\Student\Documents\Visual Studio 2022\Projects\PersonalSiteMVC\PersonalSiteMVC\PersonalSiteMVC\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = G:\My Drive\Dev\WebsiteMVC\PersonalSiteMVC\PersonalSiteMVC
+build_property.MSBuildProjectDirectory = C:\Users\Student\Documents\Visual Studio 2022\Projects\PersonalSiteMVC\PersonalSiteMVC\PersonalSiteMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[G:/My Drive/Dev/WebsiteMVC/PersonalSiteMVC/PersonalSiteMVC/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/Student/Documents/Visual Studio 2022/Projects/PersonalSiteMVC/PersonalSiteMVC/PersonalSiteMVC/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/My Drive/Dev/WebsiteMVC/PersonalSiteMVC/PersonalSiteMVC/Views/Home/Dungeon.cshtml]
+[C:/Users/Student/Documents/Visual Studio 2022/Projects/PersonalSiteMVC/PersonalSiteMVC/PersonalSiteMVC/Views/Home/Dungeon.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxEdW5nZW9uLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/My Drive/Dev/WebsiteMVC/PersonalSiteMVC/PersonalSiteMVC/Views/Home/Index.cshtml]
+[C:/Users/Student/Documents/Visual Studio 2022/Projects/PersonalSiteMVC/PersonalSiteMVC/PersonalSiteMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/My Drive/Dev/WebsiteMVC/PersonalSiteMVC/PersonalSiteMVC/Views/Home/Privacy.cshtml]
+[C:/Users/Student/Documents/Visual Studio 2022/Projects/PersonalSiteMVC/PersonalSiteMVC/PersonalSiteMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/My Drive/Dev/WebsiteMVC/PersonalSiteMVC/PersonalSiteMVC/Views/Home/ReactToDo.cshtml]
+[C:/Users/Student/Documents/Visual Studio 2022/Projects/PersonalSiteMVC/PersonalSiteMVC/PersonalSiteMVC/Views/Home/ReactToDo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxSZWFjdFRvRG8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/My Drive/Dev/WebsiteMVC/PersonalSiteMVC/PersonalSiteMVC/Views/Home/SAT.cshtml]
+[C:/Users/Student/Documents/Visual Studio 2022/Projects/PersonalSiteMVC/PersonalSiteMVC/PersonalSiteMVC/Views/Home/SAT.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTQVQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/My Drive/Dev/WebsiteMVC/PersonalSiteMVC/PersonalSiteMVC/Views/Home/StoreFront.cshtml]
+[C:/Users/Student/Documents/Visual Studio 2022/Projects/PersonalSiteMVC/PersonalSiteMVC/PersonalSiteMVC/Views/Home/StoreFront.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTdG9yZUZyb250LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/My Drive/Dev/WebsiteMVC/PersonalSiteMVC/PersonalSiteMVC/Views/Home/ToDoApi.cshtml]
+[C:/Users/Student/Documents/Visual Studio 2022/Projects/PersonalSiteMVC/PersonalSiteMVC/PersonalSiteMVC/Views/Home/ToDoApi.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUb0RvQXBpLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/My Drive/Dev/WebsiteMVC/PersonalSiteMVC/PersonalSiteMVC/Views/Shared/Error.cshtml]
+[C:/Users/Student/Documents/Visual Studio 2022/Projects/PersonalSiteMVC/PersonalSiteMVC/PersonalSiteMVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/My Drive/Dev/WebsiteMVC/PersonalSiteMVC/PersonalSiteMVC/Views/Shared/_Layout.cshtml]
+[C:/Users/Student/Documents/Visual Studio 2022/Projects/PersonalSiteMVC/PersonalSiteMVC/PersonalSiteMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/My Drive/Dev/WebsiteMVC/PersonalSiteMVC/PersonalSiteMVC/Views/Shared/_LayoutLightbox.cshtml]
+[C:/Users/Student/Documents/Visual Studio 2022/Projects/PersonalSiteMVC/PersonalSiteMVC/PersonalSiteMVC/Views/Shared/_LayoutLightbox.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRMaWdodGJveC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/My Drive/Dev/WebsiteMVC/PersonalSiteMVC/PersonalSiteMVC/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/Student/Documents/Visual Studio 2022/Projects/PersonalSiteMVC/PersonalSiteMVC/PersonalSiteMVC/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/My Drive/Dev/WebsiteMVC/PersonalSiteMVC/PersonalSiteMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Student/Documents/Visual Studio 2022/Projects/PersonalSiteMVC/PersonalSiteMVC/PersonalSiteMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/My Drive/Dev/WebsiteMVC/PersonalSiteMVC/PersonalSiteMVC/Views/_ViewImports.cshtml]
+[C:/Users/Student/Documents/Visual Studio 2022/Projects/PersonalSiteMVC/PersonalSiteMVC/PersonalSiteMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/My Drive/Dev/WebsiteMVC/PersonalSiteMVC/PersonalSiteMVC/Views/_ViewStart.cshtml]
+[C:/Users/Student/Documents/Visual Studio 2022/Projects/PersonalSiteMVC/PersonalSiteMVC/PersonalSiteMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[G:/My Drive/Dev/WebsiteMVC/PersonalSiteMVC/PersonalSiteMVC/Views/Shared/_OriginalLayout.cshtml]
+[C:/Users/Student/Documents/Visual Studio 2022/Projects/PersonalSiteMVC/PersonalSiteMVC/PersonalSiteMVC/Views/Shared/_OriginalLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9PcmlnaW5hbExheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = b-52jrcw6l5w

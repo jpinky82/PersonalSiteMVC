@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "dctBiREYzdEMQjLuGkV3NkFxLrAauQ3D2R/x0eBZGeY=",
+  "Hash": "JPBM6bxwYYlNDpA7guvR4X5k6en9qFjnKzXodHtF0uo=",
   "Source": "PersonalSiteMVC",
   "BasePath": "_content/PersonalSiteMVC",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "PersonalSiteMVC\\wwwroot",
       "Source": "PersonalSiteMVC",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
       "BasePath": "_content/PersonalSiteMVC",
       "Pattern": "**"
     }
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "C:\\Users\\Student\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\6.0.13\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PersonalSiteMVC.styles.css",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PersonalSiteMVC.styles.css",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Computed",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "PersonalSiteMVC.styles.css",
       "AssetKind": "All",
@@ -1051,13 +1051,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PersonalSiteMVC.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\obj\\Debug\\net6.0\\scopedcss\\bundle\\PersonalSiteMVC.styles.css"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PersonalSiteMVC.bundle.scp.css",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PersonalSiteMVC.bundle.scp.css",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Computed",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "PersonalSiteMVC.bundle.scp.css",
       "AssetKind": "All",
@@ -1068,13 +1068,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PersonalSiteMVC.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PersonalSiteMVC.bundle.scp.css"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\assets\\img\\React_ToDo\\Categories.jpg",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\assets\\img\\React_ToDo\\Categories.jpg",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "assets/img/React_ToDo/Categories.jpg",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\React_ToDo\\Categories.jpg"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\assets\\img\\React_ToDo\\Login.jpg",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\assets\\img\\React_ToDo\\Login.jpg",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "assets/img/React_ToDo/Login.jpg",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\React_ToDo\\Login.jpg"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\assets\\img\\React_ToDo\\Todos.jpg",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\assets\\img\\React_ToDo\\Todos.jpg",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "assets/img/React_ToDo/Todos.jpg",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\React_ToDo\\Todos.jpg"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\assets\\img\\StoreFront\\About.jpg",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\assets\\img\\StoreFront\\About.jpg",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "assets/img/StoreFront/About.jpg",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\StoreFront\\About.jpg"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\assets\\img\\StoreFront\\Cart.jpg",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\assets\\img\\StoreFront\\Cart.jpg",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "assets/img/StoreFront/Cart.jpg",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\StoreFront\\Cart.jpg"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\assets\\img\\StoreFront\\Home.jpg",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\assets\\img\\StoreFront\\Home.jpg",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "assets/img/StoreFront/Home.jpg",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\StoreFront\\Home.jpg"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\assets\\img\\StoreFront\\Products.jpg",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\assets\\img\\StoreFront\\Products.jpg",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "assets/img/StoreFront/Products.jpg",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\StoreFront\\Products.jpg"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "assets/vendor/bootstrap-icons/bootstrap-icons.json",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "PersonalSiteMVC",
       "SourceType": "Discovered",
-      "ContentRoot": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\",
       "BasePath": "_content/PersonalSiteMVC",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

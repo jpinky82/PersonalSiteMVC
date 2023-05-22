@@ -5,7 +5,17 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>aspnet-PersonalSiteMVC-b6b7c9c0-e4d4-4680-9455-1d17c035987f</UserSecretsId>
+	<!--<EnableDefaultCompileItems>false</EnableDefaultCompileItems>-->
+	<!--<EnableDefaultPageItems>false</EnableDefaultPageItems>-->
+	<AspNetCoreHostingModel>OutOfProcess</AspNetCoreHostingModel>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="obj\**" />
+    <Content Remove="obj\**" />
+    <EmbeddedResource Remove="obj\**" />
+    <None Remove="obj\**" />
+  </ItemGroup>
 	
   <ItemGroup>
     <Content Remove="wwwroot\assets\css\style.css" />
@@ -130,15 +140,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Include="obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" />
-    <Compile Include="obj\Debug\net6.0\PersonalSiteMVC.AssemblyInfo.cs" />
-    <Compile Include="obj\Debug\net6.0\PersonalSiteMVC.GlobalUsings.g.cs" />
-    <Compile Include="obj\Debug\net6.0\PersonalSiteMVC.MvcApplicationPartsAssemblyInfo.cs" />
-    <Compile Include="obj\Debug\net6.0\PersonalSiteMVC.RazorAssemblyInfo.cs" />
-    <Compile Include="obj\Release\net6.0\PersonalSiteMVC.GlobalUsings.g.cs" />
-  </ItemGroup>
-
-  <ItemGroup>
     <Content Include="bin\Debug\net6.0\appsettings.Development.json" />
     <Content Include="bin\Debug\net6.0\appsettings.json" />
     <Content Include="bin\Debug\net6.0\PersonalSiteMVC.deps.json" />
@@ -146,16 +147,6 @@
     <Content Include="bin\Debug\net6.0\PersonalSiteMVC.staticwebassets.runtime.json" />
     <Content Include="bin\Debug\net6.0\wwwroot\assets\vendor\bootstrap-icons\bootstrap-icons.json" />
     <Content Include="bin\Debug\net6.0\_Archive\assets\vendor\bootstrap-icons\bootstrap-icons.json" />
-    <Content Include="obj\Debug\net6.0\PersonalSiteMVC.csproj.FileListAbsolute.txt" />
-    <Content Include="obj\Debug\net6.0\project.razor.vs.json" />
-    <Content Include="obj\Debug\net6.0\scopedcss\bundle\PersonalSiteMVC.styles.css" />
-    <Content Include="obj\Debug\net6.0\scopedcss\projectbundle\PersonalSiteMVC.bundle.scp.css" />
-    <Content Include="obj\Debug\net6.0\scopedcss\Views\Shared\_OriginalLayout.cshtml.rz.scp.css" />
-    <Content Include="obj\Debug\net6.0\staticwebassets.build.json" />
-    <Content Include="obj\Debug\net6.0\staticwebassets.development.json" />
-    <Content Include="obj\Debug\net6.0\staticwebassets.pack.json" />
-    <Content Include="obj\PersonalSiteMVC.csproj.nuget.dgspec.json" />
-    <Content Include="obj\project.assets.json" />
   </ItemGroup>
 
   <ItemGroup>
@@ -422,32 +413,6 @@
     <None Include="bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll" />
     <None Include="bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll" />
     <None Include="bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll" />
-    <None Include="obj\Debug\net6.0\apphost.exe" />
-    <None Include="obj\Debug\net6.0\PersonalSiteMVC.AssemblyInfoInputs.cache" />
-    <None Include="obj\Debug\net6.0\PersonalSiteMVC.assets.cache" />
-    <None Include="obj\Debug\net6.0\PersonalSiteMVC.csproj.AssemblyReference.cache" />
-    <None Include="obj\Debug\net6.0\PersonalSiteMVC.csproj.BuildWithSkipAnalyzers" />
-    <None Include="obj\Debug\net6.0\PersonalSiteMVC.csproj.CopyComplete" />
-    <None Include="obj\Debug\net6.0\PersonalSiteMVC.csproj.CoreCompileInputs.cache" />
-    <None Include="obj\Debug\net6.0\PersonalSiteMVC.dll" />
-    <None Include="obj\Debug\net6.0\PersonalSiteMVC.GeneratedMSBuildEditorConfig.editorconfig" />
-    <None Include="obj\Debug\net6.0\PersonalSiteMVC.genruntimeconfig.cache" />
-    <None Include="obj\Debug\net6.0\PersonalSiteMVC.MvcApplicationPartsAssemblyInfo.cache" />
-    <None Include="obj\Debug\net6.0\PersonalSiteMVC.pdb" />
-    <None Include="obj\Debug\net6.0\PersonalSiteMVC.RazorAssemblyInfo.cache" />
-    <None Include="obj\Debug\net6.0\refint\PersonalSiteMVC.dll" />
-    <None Include="obj\Debug\net6.0\ref\PersonalSiteMVC.dll" />
-    <None Include="obj\Debug\net6.0\staticwebassets\msbuild.build.PersonalSiteMVC.props" />
-    <None Include="obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PersonalSiteMVC.props" />
-    <None Include="obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PersonalSiteMVC.props" />
-    <None Include="obj\Debug\net6.0\staticwebassets\msbuild.PersonalSiteMVC.Microsoft.AspNetCore.StaticWebAssets.props" />
-    <None Include="obj\PersonalSiteMVC.csproj.nuget.g.props" />
-    <None Include="obj\PersonalSiteMVC.csproj.nuget.g.targets" />
-    <None Include="obj\project.nuget.cache" />
-    <None Include="obj\Release\net6.0\PersonalSiteMVC.AssemblyInfoInputs.cache" />
-    <None Include="obj\Release\net6.0\PersonalSiteMVC.csproj.AssemblyReference.cache" />
-    <None Include="obj\Release\net6.0\PersonalSiteMVC.GeneratedMSBuildEditorConfig.editorconfig" />
-    <None Include="obj\Release\net6.0\PersonalSiteMVC.RazorAssemblyInfo.cache" />
     <None Include="wwwroot\assets\css\style.css" />
     <None Include="wwwroot\assets\files\Jason Pinkston IT Resume.pdf" />
     <None Include="wwwroot\assets\img\apple-touch-icon.png" />
@@ -604,9 +569,6 @@
     <Folder Include="bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\" />
     <Folder Include="bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\" />
     <Folder Include="bin\Release\net6.0\" />
-    <Folder Include="obj\Release\net6.0\refint\" />
-    <Folder Include="obj\Release\net6.0\ref\" />
-    <Folder Include="obj\Release\net6.0\staticwebassets\" />
   </ItemGroup>
 
 </Project>

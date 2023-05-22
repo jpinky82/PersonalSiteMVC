@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <History>True|2023-05-22T18:19:52.0101739Z;False|2023-05-22T10:21:20.2950100-05:00;False|2023-05-22T10:20:52.4353545-05:00;False|2023-05-22T10:17:47.7174943-05:00;False|2023-05-22T10:17:02.7829353-05:00;False|2023-05-22T10:16:30.6796936-05:00;False|2023-05-22T10:13:47.4098752-05:00;False|2023-05-22T10:09:40.6843090-05:00;False|2023-05-22T10:09:19.2758902-05:00;False|2023-05-22T10:00:22.6194549-05:00;True|2023-05-22T09:39:10.6882439-05:00;False|2023-05-22T09:36:33.1687695-05:00;False|2023-05-22T09:31:33.5005181-05:00;False|2023-05-22T09:30:42.3697470-05:00;False|2023-05-22T09:26:03.7889566-05:00;</History>
+    <LastFailureDetails />
+    <_PublishTargetUrl>C:\Users\Student\Documents\Visual Studio 2022\Projects\MVCPublish\PersonalSite</_PublishTargetUrl>
+  </PropertyGroup>
+</Project>
