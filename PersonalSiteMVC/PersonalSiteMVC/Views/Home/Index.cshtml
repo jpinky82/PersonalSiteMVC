@@ -297,7 +297,7 @@
                             <p>@Html.Raw(item.ProjectType)</p>
                             <div class="portfolio-links">
                                 <a href=@Html.Raw(item.Image) data-gallery="portfolioGallery" class="portfolio-lightbox" title="@Html.Raw(item.Title)"><i class="bx bx-plus"></i></a>
-                                <a href="@Url.Action($"{Html.Raw(item.LightBox)}","Home")" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                                <a href="@Url.Action("Lightbox","Home", LightboxViewModel.GetLightbox(item.LightBox))" data-gallery="portfolioDetailsGallery" data-glightbox="type: external" class="portfolio-details-lightbox" title="Portfolio Details"><i class="bx bx-link"></i></a>
                             </div>
                         </div>
                     </div>

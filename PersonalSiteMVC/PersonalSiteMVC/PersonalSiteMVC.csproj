@@ -45,9 +45,9 @@
     <Content Remove="wwwroot\assets\img\React_ToDo\React_logo.png" />
     <Content Remove="wwwroot\assets\img\SAT\jess-bailey-uo_llXeqgQY-unsplash.jpg" />
     <Content Remove="wwwroot\assets\img\SAT\SAT.png" />
-    <Content Remove="wwwroot\assets\img\SAT\Under Construction1.png" />
-    <Content Remove="wwwroot\assets\img\SAT\Under Construction2.png" />
-    <Content Remove="wwwroot\assets\img\SAT\Under Construction3.png" />
+    <Content Remove="wwwroot\assets\img\SAT\Under_Construction1.png" />
+    <Content Remove="wwwroot\assets\img\SAT\Under_Construction2.png" />
+    <Content Remove="wwwroot\assets\img\SAT\Under_Construction3.png" />
     <Content Remove="wwwroot\assets\img\testimonials\testimonials-1.jpg" />
     <Content Remove="wwwroot\assets\img\testimonials\testimonials-2.jpg" />
     <Content Remove="wwwroot\assets\img\testimonials\testimonials-3.jpg" />
@@ -440,9 +440,9 @@
     <None Include="wwwroot\assets\img\React_ToDo\React_logo.png" />
     <None Include="wwwroot\assets\img\SAT\jess-bailey-uo_llXeqgQY-unsplash.jpg" />
     <None Include="wwwroot\assets\img\SAT\SAT.png" />
-    <None Include="wwwroot\assets\img\SAT\Under Construction1.png" />
-    <None Include="wwwroot\assets\img\SAT\Under Construction2.png" />
-    <None Include="wwwroot\assets\img\SAT\Under Construction3.png" />
+    <None Include="wwwroot\assets\img\SAT\Under_Construction1.png" />
+    <None Include="wwwroot\assets\img\SAT\Under_Construction2.png" />
+    <None Include="wwwroot\assets\img\SAT\Under_Construction3.png" />
     <None Include="wwwroot\assets\img\testimonials\testimonials-1.jpg" />
     <None Include="wwwroot\assets\img\testimonials\testimonials-2.jpg" />
     <None Include="wwwroot\assets\img\testimonials\testimonials-3.jpg" />

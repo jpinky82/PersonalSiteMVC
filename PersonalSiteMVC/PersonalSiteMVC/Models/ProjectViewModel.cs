@@ -17,7 +17,7 @@ namespace PersonalSiteMVC.Models
 
         public static List<ProjectViewModel> GetProjects()
         {
-            ProjectViewModel project1 = new ProjectViewModel()
+            ProjectViewModel project1 = new ()
             {
                 ID = 1,
                 Filter = "app",
@@ -29,7 +29,7 @@ namespace PersonalSiteMVC.Models
                 LightBox = "Dungeon"
             };
 
-            ProjectViewModel project2 = new ProjectViewModel()
+            ProjectViewModel project2 = new ()
             {
                 ID = 2,
                 Filter = "web",
@@ -42,7 +42,7 @@ namespace PersonalSiteMVC.Models
 
             };
 
-            ProjectViewModel project3 = new ProjectViewModel()
+            ProjectViewModel project3 = new ()
             {
                 ID = 3,
                 Filter = "api",
@@ -54,7 +54,7 @@ namespace PersonalSiteMVC.Models
                 LightBox = "ToDoApi"
             };
 
-            ProjectViewModel project4 = new ProjectViewModel()
+            ProjectViewModel project4 = new ()
             {
                 ID = 4,
                 Filter = "react",
@@ -66,7 +66,7 @@ namespace PersonalSiteMVC.Models
                 LightBox = "ReactToDo"
             };
 
-            ProjectViewModel project5 = new ProjectViewModel()
+            ProjectViewModel project5 = new ()
             {
                 ID = 5,
                 Filter = "web",
@@ -75,8 +75,10 @@ namespace PersonalSiteMVC.Models
                 Name = "S.A.T",
                 ProjectType = "Web",
                 Title = "Scheduling Administration Tool",
-                LightBox = "Home"
+                LightBox = "SAT"
             };
+
+            //New Projects can be entered here and then added to the return below. New Projects will also need to be added to the LightboxViewModel!
 
             return new List<ProjectViewModel> { project1, project2, project3, project4, project5 };
 

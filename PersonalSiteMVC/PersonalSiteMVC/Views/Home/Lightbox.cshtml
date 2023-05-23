@@ -1,0 +1,80 @@
+﻿@model PersonalSiteMVC.Models.LightboxViewModel
+
+@{
+    ViewBag.Title = Model.Title;
+    Layout = "~/Views/Shared/_LayoutLightbox.cshtml";
+}
+<main id="main">
+
+    <!-- ======= Portfolio Details ======= -->
+    <div id="portfolio-details" class="portfolio-details">
+        <div class="container">
+
+            <div class="row">
+
+                <div class="col-lg-8">
+                    <h2 class="portfolio-title">@Model.Title</h2>
+
+                    <div class="portfolio-details-slider swiper">
+                        <div class="swiper-wrapper align-items-center">
+
+                            <div class="swiper-slide">
+                                <img src=@Model.Image1 alt=@Model.Image1Alt>
+                            </div>
+
+                            @if (Model.Image2 != null)
+                            {
+                                <div class="swiper-slide">
+                                    <img src=@Model.Image2 alt=@Model.Image2Alt>
+                                </div>
+                            }
+                            
+                            @if (Model.Image3 != null)
+                            {
+                                <div class="swiper-slide">
+                                    <img src=@Model.Image3 alt=@Model.Image3Alt>
+                                </div>
+                            }
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+
+                </div>
+
+                <div class="col-lg-4 portfolio-info">
+                    <h3>Project information</h3>
+                    <ul>
+                        <li><strong>Category</strong>: @Model.Category</li>
+                        <li><strong>Project date</strong>: @Model.Date.ToString("M/d/yyyy")</li>
+
+                        @if (Model.ProjUrl != null)
+                        {
+                            @if (Model.ProjUrl == "Coming Soon!")
+                            {
+                                <li><strong>Project URL</strong>: <a href="#">Coming Soon!</a></li>
+                            }else
+                            {
+                                <li><strong>Project URL</strong>: <a href="@Model.ProjUrl" target="_blank">Click Here</a></li>
+                            }
+                        }
+                        
+                        @if(Model.GitUrl =="Coming Soon!")
+                        {
+                            <li><strong>GitHub Link</strong>: <a href="#">Coming Soon!</a></li>
+                        }else
+                        {
+                            <li><strong>GitHub Link</strong>: <a href=@Model.GitUrl target="_blank">Click Here</a></li>
+                        }
+                    </ul>
+
+                    <p>
+                        @Model.Description
+                    </p>
+                </div>
+
+            </div>
+
+        </div>
+    </div><!-- End Portfolio Details -->
+
+</main><!-- End #main -->
