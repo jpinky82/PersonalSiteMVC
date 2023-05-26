@@ -49,7 +49,7 @@
                         Image3Alt = "Shopping Cart",
                         Category = "Web design",
                         Date = new DateTime(2023, 3, 20),
-                        ProjUrl = "Coming Soon!",
+                        ProjUrl = "http://retrogames.jpinkston.com",
                         GitUrl = "https://github.com/jpinky82/RetroGamesStoreFront",
                         Description = "A secure application for managing product data. The application is built to simulate an online store front with a shopping cart. Administrators have the ability to manage product, category, and vendor data."
                     };
