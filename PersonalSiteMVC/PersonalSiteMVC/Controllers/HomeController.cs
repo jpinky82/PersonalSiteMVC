@@ -41,30 +41,11 @@ namespace PersonalSiteMVC.Controllers
             return View();
         }
 
-        public IActionResult Dungeon()
+        public IActionResult Lightbox(LightboxViewModel lightbox)
         {
-            return View();
+            return View(lightbox);
         }
 
-        public IActionResult StoreFront()
-        {
-            return View();
-        }
-
-        public IActionResult ToDoApi()
-        {
-            return View();
-        }
-
-        public IActionResult ReactToDo()
-        {
-            return View();
-        }
-
-        public IActionResult SAT()
-        {
-            return View();
-        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
