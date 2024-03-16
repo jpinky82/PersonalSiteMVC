@@ -1,0 +1,22 @@
+G:\My Drive\Dev\WebsiteMVC\PersonalSiteMVC\PersonalSiteMVC\obj\Release\net6.0\PersonalSiteMVC.csproj.AssemblyReference.cache
+G:\My Drive\Dev\WebsiteMVC\PersonalSiteMVC\PersonalSiteMVC\obj\Release\net6.0\PersonalSiteMVC.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Dev\WebsiteMVC\PersonalSiteMVC\PersonalSiteMVC\obj\Release\net6.0\PersonalSiteMVC.AssemblyInfoInputs.cache
+G:\My Drive\Dev\WebsiteMVC\PersonalSiteMVC\PersonalSiteMVC\obj\Release\net6.0\PersonalSiteMVC.AssemblyInfo.cs
+G:\My Drive\Dev\WebsiteMVC\PersonalSiteMVC\PersonalSiteMVC\obj\Release\net6.0\PersonalSiteMVC.csproj.CoreCompileInputs.cache
+G:\My Drive\Dev\WebsiteMVC\PersonalSiteMVC\PersonalSiteMVC\obj\Release\net6.0\PersonalSiteMVC.MvcApplicationPartsAssemblyInfo.cs
+G:\My Drive\Dev\WebsiteMVC\PersonalSiteMVC\PersonalSiteMVC\obj\Release\net6.0\PersonalSiteMVC.MvcApplicationPartsAssemblyInfo.cache
+G:\My Drive\Dev\WebsiteMVC\PersonalSiteMVC\PersonalSiteMVC\obj\Release\net6.0\PersonalSiteMVC.RazorAssemblyInfo.cache
+G:\My Drive\Dev\WebsiteMVC\PersonalSiteMVC\PersonalSiteMVC\obj\Release\net6.0\PersonalSiteMVC.RazorAssemblyInfo.cs
+C:\Users\pinks\source\repos\PersonalSiteMVC\PersonalSiteMVC\PersonalSiteMVC\obj\Release\net6.0\PersonalSiteMVC.csproj.AssemblyReference.cache
+C:\Users\pinks\source\repos\PersonalSiteMVC\PersonalSiteMVC\PersonalSiteMVC\obj\Release\net6.0\PersonalSiteMVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pinks\source\repos\PersonalSiteMVC\PersonalSiteMVC\PersonalSiteMVC\obj\Release\net6.0\PersonalSiteMVC.AssemblyInfoInputs.cache
+C:\Users\pinks\source\repos\PersonalSiteMVC\PersonalSiteMVC\PersonalSiteMVC\obj\Release\net6.0\PersonalSiteMVC.AssemblyInfo.cs
+C:\Users\pinks\source\repos\PersonalSiteMVC\PersonalSiteMVC\PersonalSiteMVC\obj\Release\net6.0\PersonalSiteMVC.csproj.CoreCompileInputs.cache
+C:\Users\pinks\source\repos\PersonalSiteMVC\PersonalSiteMVC\PersonalSiteMVC\obj\Release\net6.0\PersonalSiteMVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\pinks\source\repos\PersonalSiteMVC\PersonalSiteMVC\PersonalSiteMVC\obj\Release\net6.0\PersonalSiteMVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\pinks\source\repos\PersonalSiteMVC\PersonalSiteMVC\PersonalSiteMVC\obj\Release\net6.0\PersonalSiteMVC.RazorAssemblyInfo.cache
+C:\Users\pinks\source\repos\PersonalSiteMVC\PersonalSiteMVC\PersonalSiteMVC\obj\Release\net6.0\PersonalSiteMVC.RazorAssemblyInfo.cs
+C:\Users\pinks\source\repos\PersonalSiteMVC\PersonalSiteMVC\PersonalSiteMVC\obj\Release\net6.0\PersonalSiteMVC.sourcelink.json
+C:\Users\pinks\source\repos\PersonalSiteMVC\PersonalSiteMVC\PersonalSiteMVC\obj\Release\net6.0\PersonalSiteMVC.dll
+C:\Users\pinks\source\repos\PersonalSiteMVC\PersonalSiteMVC\PersonalSiteMVC\obj\Release\net6.0\refint\PersonalSiteMVC.dll
+C:\Users\pinks\source\repos\PersonalSiteMVC\PersonalSiteMVC\PersonalSiteMVC\obj\Release\net6.0\PersonalSiteMVC.pdb
