@@ -284,6 +284,7 @@
         </div>
 
         <!-- Loop through the ProjectViewModel and display each Project -->
+
         <div class="row portfolio-container">
             @{List<ProjectViewModel> projects = ProjectViewModel.GetProjects();}
             @foreach (var item in projects)
@@ -309,7 +310,65 @@
     </div>
 </section><!-- End Portfolio Section -->
 <!-- ======= Centriq Section ======= -->
+
 <section id="centriq" class="centriq">
+    <div class="container">
+        <h2>Completion Badges</h2>
+        <div class="row">
+            <div class="class col-md-12">
+                <p>
+                    Througout the Centriq Program, we are awarded badges as we complete each course.  All courses require the completion of a project in that subject matter which demonstrates the skills learned in class.
+
+                </p>
+            </div>
+        </div>
+
+        <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-4 justify-content-center mb-4">
+            <div class="col text-center">
+                <div>
+                    <a href="https://badgr.com/public/assertions/jEvO_WZsQc2A1m3tPeg8FA" target="_blank">
+                        <img src="https://api.badgr.io/public/assertions/jEvO_WZsQc2A1m3tPeg8FA/image" class="badgeImage" alt="C# Badge">
+                    </a>    
+                </div>
+            </div>
+            <div class="col text-center">
+                <div>
+                    <a href="https://badgr.com/public/assertions/OJ6eQP3WTXaH-KiG29Se5Q" target="_blank">
+                        <img src="https://api.badgr.io/public/assertions/OJ6eQP3WTXaH-KiG29Se5Q/image" class="badgeImage" alt="Front End Badge">
+                    </a>
+                </div>
+            </div>
+            <div class="col text-center">
+                <div>
+                    <a href="https://badgr.com/public/assertions/raGPV0vjTt6AawbFcVbifg" target="_blank">
+                        <img src="https://api.badgr.io/public/assertions/raGPV0vjTt6AawbFcVbifg/image" class="badgeImage" alt="SQL Badge">
+                    </a>
+                </div>
+            </div>
+            <div class="col text-center">
+                <div>
+                    <a href="https://badgr.com/public/assertions/-XdRw4dFQN6CFqzRETy9-A" target="_blank">
+                        <img src="https://api.badgr.io/public/assertions/-XdRw4dFQN6CFqzRETy9-A/image" class="badgeImage" alt=".NET Core MVC Badge">
+                    </a>
+                </div>
+            </div>
+            <div class="col text-center">
+                <div>
+                    <a href="https://badgr.com/public/assertions/Inxy3Cf3SZCp93N0jAmALA" target="_blank">
+                        <img src="https://api.badgr.io/public/assertions/Inxy3Cf3SZCp93N0jAmALA/image" class="badgeImage" alt="Restful API Badge">
+                    </a>
+                </div>
+            </div>
+            <div class="col text-center">
+                <div>
+                    <a href="https://badgr.com/public/assertions/GYbNiD88T3CqJrTUy7EYQQ" target="_blank">
+                        <img src="https://api.badgr.io/public/assertions/GYbNiD88T3CqJrTUy7EYQQ/image" class="badgeImage" alt="Javascript Badge">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br />
     <div class="container">
         <h2>Centriq Classmates</h2>
         <div class="row">
@@ -432,7 +491,7 @@
 
 <!-- ======= Contact Section ======= -->
 <section id="contact" class="contact">
-    <div class="container">
+    <div class="container" id="contactbg">
         @*!STEP 10 - Display the success message, if one exists*@
         @if (!string.IsNullOrEmpty(ViewBag.Success))
         {

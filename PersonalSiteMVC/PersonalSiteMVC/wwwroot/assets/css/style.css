@@ -374,7 +374,7 @@ section.section-show {
 }
 
 section .container {
-  background-color: rgba(0,0,0,.98);
+  background-color: rgba(0,0,0,.9);
   padding: 30px;
 }
 
@@ -521,7 +521,7 @@ section .container {
 }
 
 /*--------------------------------------------------------------
-# Centriq Classmates
+# Centriq Classmates & Badges
 --------------------------------------------------------------*/
 
 .centriq img {
@@ -954,7 +954,7 @@ section .container {
   color: #444444;
   padding: 20px;
   width: 100%;
-  background: rgba(255, 255, 255, 0.08);
+  background: rgba(255, 255, 255, 0.089);
 }
 
 .contact .info-box i.bx {
@@ -1001,7 +1001,11 @@ section .container {
 
 .contact .php-email-form {
   padding: 30px;
-  background: rgba(255, 255, 255, 0.08);
+  background: rgba(255, 255, 255, 0.087);
+}
+
+#contactbg {
+    background: rgba(0,0,0, .99) !important;
 }
 
 .contact .php-email-form .error-message {

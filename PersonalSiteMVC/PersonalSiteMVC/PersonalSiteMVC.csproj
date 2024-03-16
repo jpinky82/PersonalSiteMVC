@@ -6,6 +6,13 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>aspnet-PersonalSiteMVC-b6b7c9c0-e4d4-4680-9455-1d17c035987f</UserSecretsId>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="wwwroot\assets\img\testimonials\**" />
+    <Content Remove="wwwroot\assets\img\testimonials\**" />
+    <EmbeddedResource Remove="wwwroot\assets\img\testimonials\**" />
+    <None Remove="wwwroot\assets\img\testimonials\**" />
+  </ItemGroup>
 	
   <ItemGroup>
     <Content Remove="wwwroot\assets\css\style.css" />
@@ -38,11 +45,6 @@
     <Content Remove="wwwroot\assets\img\SAT\Under Construction1.png" />
     <Content Remove="wwwroot\assets\img\SAT\Under Construction2.png" />
     <Content Remove="wwwroot\assets\img\SAT\Under Construction3.png" />
-    <Content Remove="wwwroot\assets\img\testimonials\testimonials-1.jpg" />
-    <Content Remove="wwwroot\assets\img\testimonials\testimonials-2.jpg" />
-    <Content Remove="wwwroot\assets\img\testimonials\testimonials-3.jpg" />
-    <Content Remove="wwwroot\assets\img\testimonials\testimonials-4.jpg" />
-    <Content Remove="wwwroot\assets\img\testimonials\testimonials-5.jpg" />
     <Content Remove="wwwroot\assets\img\ToDo_API\todo_image.png" />
     <Content Remove="wwwroot\assets\img\unc.jpg" />
     <Content Remove="wwwroot\assets\js\main.js" />
@@ -130,9 +132,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Compile Include="obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" />
     <Compile Include="obj\Debug\net6.0\PersonalSiteMVC.AssemblyInfo.cs" />
-    <Compile Include="obj\Debug\net6.0\PersonalSiteMVC.GlobalUsings.g.cs" />
     <Compile Include="obj\Debug\net6.0\PersonalSiteMVC.MvcApplicationPartsAssemblyInfo.cs" />
     <Compile Include="obj\Debug\net6.0\PersonalSiteMVC.RazorAssemblyInfo.cs" />
     <Compile Include="obj\Release\net6.0\PersonalSiteMVC.GlobalUsings.g.cs" />
@@ -467,10 +467,6 @@
     <None Include="wwwroot\assets\img\favicon.png" />
     <None Include="wwwroot\assets\img\icon.png" />
     <None Include="wwwroot\assets\img\icons8-program-96.png" />
-    <None Include="wwwroot\assets\img\jasonbg-iphone.jpg" />
-    <None Include="wwwroot\assets\img\jasonbg.jpg" />
-    <None Include="wwwroot\assets\img\jason_portrait-iphone.jpg" />
-    <None Include="wwwroot\assets\img\jason_portrait.jpg" />
     <None Include="wwwroot\assets\img\Portrait.jpg" />
     <None Include="wwwroot\assets\img\React_ToDo\React_logo.png" />
     <None Include="wwwroot\assets\img\SAT\jess-bailey-uo_llXeqgQY-unsplash.jpg" />
@@ -478,13 +474,7 @@
     <None Include="wwwroot\assets\img\SAT\Under Construction1.png" />
     <None Include="wwwroot\assets\img\SAT\Under Construction2.png" />
     <None Include="wwwroot\assets\img\SAT\Under Construction3.png" />
-    <None Include="wwwroot\assets\img\testimonials\testimonials-1.jpg" />
-    <None Include="wwwroot\assets\img\testimonials\testimonials-2.jpg" />
-    <None Include="wwwroot\assets\img\testimonials\testimonials-3.jpg" />
-    <None Include="wwwroot\assets\img\testimonials\testimonials-4.jpg" />
-    <None Include="wwwroot\assets\img\testimonials\testimonials-5.jpg" />
     <None Include="wwwroot\assets\img\ToDo_API\todo_image.png" />
-    <None Include="wwwroot\assets\img\unc.jpg" />
     <None Include="wwwroot\assets\js\main.js" />
     <None Include="wwwroot\assets\scss\Readme.txt" />
     <None Include="wwwroot\assets\vendor\bootstrap-icons\bootstrap-icons.css" />

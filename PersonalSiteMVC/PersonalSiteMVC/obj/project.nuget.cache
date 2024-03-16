@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3Q0s+JpL+6E8UaIFblpnT6kszYs/n1PijA2YRkwwJdNwth/NiROEQVVtvgNlKnBpa+xxqC5Wua8Gy6HKTghH/A==",
+  "dgSpecHash": "AU1bmcruUQUgf5JrGqbn3wM+jnChCd5ZGmuo/qDpIvjy/aJFvMd0T/FLOJAEtMqiIDv0FBqSI12MR1m2cHq1eQ==",
   "success": true,
   "projectFilePath": "G:\\My Drive\\Dev\\WebsiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC.csproj",
   "expectedPackageFiles": [
@@ -188,7 +188,11 @@
     "C:\\Users\\Student\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\Student\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
     "C:\\Users\\Student\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\Student\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\Student\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\Student\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
   ],
   "logs": []
 }
