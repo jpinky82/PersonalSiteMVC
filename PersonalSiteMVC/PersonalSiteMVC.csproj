@@ -134,7 +134,6 @@
     <Compile Include="obj\Debug\net6.0\PersonalSiteMVC.AssemblyInfo.cs" />
     <Compile Include="obj\Debug\net6.0\PersonalSiteMVC.MvcApplicationPartsAssemblyInfo.cs" />
     <Compile Include="obj\Debug\net6.0\PersonalSiteMVC.RazorAssemblyInfo.cs" />
-    <Compile Include="obj\Release\net6.0\PersonalSiteMVC.GlobalUsings.g.cs" />
   </ItemGroup>
 
   <ItemGroup>
