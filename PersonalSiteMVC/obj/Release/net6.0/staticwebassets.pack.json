@@ -1,171 +1,199 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\PersonalSiteMVC.bundle.scp.css",
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\PersonalSiteMVC.bundle.scp.css",
       "PackagePath": "staticwebassets\\PersonalSiteMVC.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\assets\\img\\React_ToDo\\Categories.jpg",
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\assets\\files\\Jason_Pinkston_IT_Resume.pdf",
+      "PackagePath": "staticwebassets\\assets\\files\\Jason_Pinkston_IT_Resume.pdf"
+    },
+    {
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\assets\\img\\Atomic_Synergistics\\Dashboard.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Atomic_Synergistics\\Dashboard.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\assets\\img\\Atomic_Synergistics\\Departments.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Atomic_Synergistics\\Departments.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\assets\\img\\Atomic_Synergistics\\Login.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Atomic_Synergistics\\Login.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\assets\\img\\Atomic_Synergistics\\Products.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\Atomic_Synergistics\\Products.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\assets\\img\\React_ToDo\\Categories.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\React_ToDo\\Categories.jpg"
     },
     {
-      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\assets\\img\\React_ToDo\\Login.jpg",
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\assets\\img\\React_ToDo\\Login.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\React_ToDo\\Login.jpg"
     },
     {
-      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\assets\\img\\React_ToDo\\Todos.jpg",
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\assets\\img\\React_ToDo\\React_logo.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\React_ToDo\\React_logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\assets\\img\\React_ToDo\\Todos.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\React_ToDo\\Todos.jpg"
     },
     {
-      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\assets\\img\\StoreFront\\About.jpg",
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\assets\\img\\SAT\\UnderConstruction.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\SAT\\UnderConstruction.jpg"
+    },
+    {
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\assets\\img\\StoreFront\\About.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\StoreFront\\About.jpg"
     },
     {
-      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\assets\\img\\StoreFront\\Cart.jpg",
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\assets\\img\\StoreFront\\Cart.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\StoreFront\\Cart.jpg"
     },
     {
-      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\assets\\img\\StoreFront\\Home.jpg",
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\assets\\img\\StoreFront\\Home.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\StoreFront\\Home.jpg"
     },
     {
-      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\assets\\img\\StoreFront\\Products.jpg",
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\assets\\img\\StoreFront\\Products.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\StoreFront\\Products.jpg"
     },
     {
-      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json",
       "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
     },
     {
-      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Student\\Documents\\Visual Studio 2022\\Projects\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

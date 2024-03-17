@@ -828,8 +828,6 @@ C:\Users\pinks\source\repos\PersonalSiteMVC\PersonalSiteMVC\bin\Debug\net6.0\run
 C:\Users\pinks\source\repos\PersonalSiteMVC\PersonalSiteMVC\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\pinks\source\repos\PersonalSiteMVC\PersonalSiteMVC\obj\Debug\net6.0\PersonalSiteMVC.csproj.AssemblyReference.cache
 C:\Users\pinks\source\repos\PersonalSiteMVC\PersonalSiteMVC\obj\Debug\net6.0\PersonalSiteMVC.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\pinks\source\repos\PersonalSiteMVC\PersonalSiteMVC\obj\Debug\net6.0\PersonalSiteMVC.AssemblyInfoInputs.cache
-C:\Users\pinks\source\repos\PersonalSiteMVC\PersonalSiteMVC\obj\Debug\net6.0\PersonalSiteMVC.AssemblyInfo.cs
 C:\Users\pinks\source\repos\PersonalSiteMVC\PersonalSiteMVC\obj\Debug\net6.0\PersonalSiteMVC.csproj.CoreCompileInputs.cache
 C:\Users\pinks\source\repos\PersonalSiteMVC\PersonalSiteMVC\obj\Debug\net6.0\PersonalSiteMVC.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\pinks\source\repos\PersonalSiteMVC\PersonalSiteMVC\obj\Debug\net6.0\PersonalSiteMVC.MvcApplicationPartsAssemblyInfo.cache
@@ -852,3 +850,5 @@ C:\Users\pinks\source\repos\PersonalSiteMVC\PersonalSiteMVC\obj\Debug\net6.0\ref
 C:\Users\pinks\source\repos\PersonalSiteMVC\PersonalSiteMVC\obj\Debug\net6.0\PersonalSiteMVC.pdb
 C:\Users\pinks\source\repos\PersonalSiteMVC\PersonalSiteMVC\obj\Debug\net6.0\PersonalSiteMVC.genruntimeconfig.cache
 C:\Users\pinks\source\repos\PersonalSiteMVC\PersonalSiteMVC\obj\Debug\net6.0\ref\PersonalSiteMVC.dll
+C:\Users\pinks\source\repos\PersonalSiteMVC\PersonalSiteMVC\obj\Debug\net6.0\PersonalSiteMVC.AssemblyInfoInputs.cache
+C:\Users\pinks\source\repos\PersonalSiteMVC\PersonalSiteMVC\obj\Debug\net6.0\PersonalSiteMVC.AssemblyInfo.cs

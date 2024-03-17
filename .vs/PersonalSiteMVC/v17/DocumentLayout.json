@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B69C80EE-01D7-47F4-8F7A-BC435C966BBD}|PersonalSiteMVC\\PersonalSiteMVC.csproj|c:\\users\\pinks\\source\\repos\\personalsitemvc\\personalsitemvc\\obj\\release\\net6.0\\personalsitemvc.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B69C80EE-01D7-47F4-8F7A-BC435C966BBD}|PersonalSiteMVC\\PersonalSiteMVC.csproj|solutionrelative:personalsitemvc\\obj\\release\\net6.0\\personalsitemvc.assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B69C80EE-01D7-47F4-8F7A-BC435C966BBD}|PersonalSiteMVC\\PersonalSiteMVC.csproj|c:\\users\\pinks\\source\\repos\\personalsitemvc\\personalsitemvc\\obj\\release\\net6.0\\personalsitemvc.razorassemblyinfo.cache||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B69C80EE-01D7-47F4-8F7A-BC435C966BBD}|PersonalSiteMVC\\PersonalSiteMVC.csproj|solutionrelative:personalsitemvc\\obj\\release\\net6.0\\personalsitemvc.razorassemblyinfo.cache||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B69C80EE-01D7-47F4-8F7A-BC435C966BBD}|PersonalSiteMVC\\PersonalSiteMVC.csproj|c:\\users\\pinks\\source\\repos\\personalsitemvc\\personalsitemvc\\obj\\release\\net6.0\\personalsitemvc.razorassemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B69C80EE-01D7-47F4-8F7A-BC435C966BBD}|PersonalSiteMVC\\PersonalSiteMVC.csproj|solutionrelative:personalsitemvc\\obj\\release\\net6.0\\personalsitemvc.razorassemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B69C80EE-01D7-47F4-8F7A-BC435C966BBD}|PersonalSiteMVC\\PersonalSiteMVC.csproj|c:\\users\\pinks\\source\\repos\\personalsitemvc\\personalsitemvc\\personalsitemvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B69C80EE-01D7-47F4-8F7A-BC435C966BBD}|PersonalSiteMVC\\PersonalSiteMVC.csproj|solutionrelative:personalsitemvc\\personalsitemvc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,6 +47,58 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonalSiteMVC.RazorAssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\obj\\Release\\net6.0\\PersonalSiteMVC.RazorAssemblyInfo.cs",
+              "RelativeDocumentMoniker": "PersonalSiteMVC\\obj\\Release\\net6.0\\PersonalSiteMVC.RazorAssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\obj\\Release\\net6.0\\PersonalSiteMVC.RazorAssemblyInfo.cs",
+              "RelativeToolTip": "PersonalSiteMVC\\obj\\Release\\net6.0\\PersonalSiteMVC.RazorAssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T17:28:56.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonalSiteMVC.RazorAssemblyInfo.cache",
+              "DocumentMoniker": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\obj\\Release\\net6.0\\PersonalSiteMVC.RazorAssemblyInfo.cache",
+              "RelativeDocumentMoniker": "PersonalSiteMVC\\obj\\Release\\net6.0\\PersonalSiteMVC.RazorAssemblyInfo.cache",
+              "ToolTip": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\obj\\Release\\net6.0\\PersonalSiteMVC.RazorAssemblyInfo.cache",
+              "RelativeToolTip": "PersonalSiteMVC\\obj\\Release\\net6.0\\PersonalSiteMVC.RazorAssemblyInfo.cache",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002368|",
+              "WhenOpened": "2024-03-17T17:28:42.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonalSiteMVC.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\obj\\Release\\net6.0\\PersonalSiteMVC.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "PersonalSiteMVC\\obj\\Release\\net6.0\\PersonalSiteMVC.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\obj\\Release\\net6.0\\PersonalSiteMVC.AssemblyInfo.cs",
+              "RelativeToolTip": "PersonalSiteMVC\\obj\\Release\\net6.0\\PersonalSiteMVC.AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-17T17:27:44.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonalSiteMVC",
+              "DocumentMoniker": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC.csproj",
+              "RelativeDocumentMoniker": "PersonalSiteMVC\\PersonalSiteMVC.csproj",
+              "ToolTip": "C:\\Users\\pinks\\source\\repos\\PersonalSiteMVC\\PersonalSiteMVC\\PersonalSiteMVC.csproj",
+              "RelativeToolTip": "PersonalSiteMVC\\PersonalSiteMVC.csproj",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAAYAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-17T17:24:09.46Z",
+              "EditorCaption": ""
             }
           ]
         }
